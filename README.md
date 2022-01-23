@@ -10,5 +10,4 @@ The barometer is used to evaluate the risk in US stock market.
 ### 2- The barometer has high correlation with the price of the underlying assets. 
 ### 3a- Reaching the extreme levels of the barometer prevents price from continuing the previous trend.
 ### 3b- At extreme levels of the barometer, price typically bounce or continue the trend after a short breath (barometer resets). 
-### 4- The barometer shows a leading trend indicator for predicting $BTC and $ETH future price actions.
-### 5- Extreme levels of the barometer may be used to interpret the condition of market and predict the future price action (shown with green and red arrows).
+### 4- Extreme levels of the barometer may be used to interpret the condition of market and predict the future price action (shown with green and red arrows).
